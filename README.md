@@ -10,7 +10,6 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development
 - Excited about anything related to CS
-- I’m currently open for an Intern or a new job opportunity.
 
 <br>
 
