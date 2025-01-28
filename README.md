@@ -7,9 +7,17 @@
 <br>
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development
-- Excited about anything related to CS
+- A passionate Self-taught Web developer.
+- Currently learning about AI.
+- Excited about anything related to CS.
+- Have proffesional experience on mobile game development and web application development.
+
+<br>
+
+Visit: 
+<a href="https://onurakad.netlify.app/">
+Portfolio
+<a/>
 
 <br>
 
