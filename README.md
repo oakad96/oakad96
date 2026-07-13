@@ -13,8 +13,8 @@
 <br>
 
 Visit: 
-<a href="https://onurakad.netlify.app/">
-Portfolio
+<a href="https://onurakad.me/">
+Website
 <a/>
 
 <br>
