@@ -1,8 +1,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - A passionate Self-taught Web developer.
@@ -54,30 +52,6 @@ Website
 
 
 <br>
-	
-	
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="65"><b> Github Stats </b>
-
-	
-<div align="center">
-	
-	
-<a href="https://github.com/oakad96/">
-<br>	
-
-	
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oakad96&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="600"  alt="0xabdulkhalid"/>	
-	
-	
-  
-</a>
-	
-	
-</div>
-
-
-<br>
-
 	
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
